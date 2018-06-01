@@ -2,4 +2,4 @@
 
 This is a first attempt to use github.
 
-The file hello_world.py is just the hello-world code in python.
+The file helloworld.py is just the hello-world code in python.
