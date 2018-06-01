@@ -1,5 +1,5 @@
 # hello-world
 
-Hi there, my name is DG.
+This is a first attempt to use github.
 
-This is a test about the usage of the github.
+The file hello_world.py is just the hello-world code in python.
