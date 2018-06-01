@@ -1,3 +1,3 @@
-print("Hello world")
+# The hello-world code in python.
 
-print("This change is made from windows Github application")
+print("Hello world")
