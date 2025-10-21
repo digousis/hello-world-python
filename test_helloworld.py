@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 from io import StringIO
-import sys
+
 from helloworld import execute_process
 
 

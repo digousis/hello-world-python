@@ -4,7 +4,8 @@
 def execute_process() -> None:
     """
     Execute the process of this script.
-    :return:
+
+    :return: No return value.
     """
     print("Hello world")
 
